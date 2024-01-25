@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('../fonts/Sans/OpenSansCondensed-ExtraBoldItalic.eot');
+    src: url('../fonts/Sans/OpenSansCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Sans/OpenSansCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Sans/OpenSansCondensed-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/Sans/OpenSansCondensed-ExtraBoldItalic.svg#OpenSansCondensed-ExtraBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto/');
+    src: url('../fonts/Roboto/?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto/Roboto-Bold.woff2') format('woff2'),
+        url('../fonts/Roboto/Roboto-Bold.woff') format('woff'),
+        url('../fonts/Roboto/Roboto-Bold.svg#Roboto-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellowtail';
+    src: url('../fonts/Yellowtail/');
+    src: url('../fonts/Yellowtail/?#iefix') format('embedded-opentype'),
+        url('../fonts/Yellowtail/Yellowtail-Regular.woff2') format('woff2'),
+        url('../fonts/Yellowtail/Yellowtail-Regular.woff') format('woff'),
+        url('../fonts/Yellowtail/Yellowtail-Regular.svg#Yellowtail-Regular') format('svg');
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+}
+
+
