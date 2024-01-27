@@ -1,0 +1,31 @@
+/* Texts */
+.title-block-item1 {
+    font-size: 16px;
+    font-family: "Inter";
+    text-align: center;
+    color: #282828;
+    margin: 0px 0px 4px 0px;
+}
+.title-block-item2 {
+    font-size: 16px;
+    font-family: "Inter";
+    font-size: 54px;
+    text-align: center;
+    color: #282828;
+}
+.text1 {
+    font-size: 20px;
+    font-family: "Inter";
+    color: #5F6980;
+    text-align: center;
+}
+/* Blocks */
+.header {
+    width: 1336px;
+    height: 178px;
+    margin: 80px 52px 0px 52px;
+}
+.title-block2 {
+    width: 760px;
+    margin: 16px 288px 0px 288px;
+}
