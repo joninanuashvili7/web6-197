@@ -46,10 +46,19 @@
 @font-face {
     font-family: 'Montserrat';
     src: url('/fonts/Montserrath/Montserrat-Thin.woff2') format('woff2'),
-        url('/fonts/Montserrath/Montserrat-Thin.woff') format('woff'),
-        url('/fonts/Montserrath/Montserrat-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
+        ('/fonts/Montserrath/Montserrat-Thin.woff') format('woff'),
+        ('/fonts/Montserrath/Montserrat-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('/fonts/Poppins/Poppins-Black.ttf');
+    src: url('/fonts/Poppins/Poppins-Bold.ttf');
+    src: url('/fonts/Poppins/Poppins-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
     font-display: swap;
 }
 
